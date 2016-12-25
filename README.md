@@ -1,6 +1,8 @@
 # salary2consultantcalc
 salary to consultant daily rate calculator
 
+https://codegeek1001.github.io/salary2consultantcalc/
+
 ## What is this
 
 A simple calculator that tells you an equivalent break-even Daily Rate that you should charge if you were to switch from your salaried job to consulting.
